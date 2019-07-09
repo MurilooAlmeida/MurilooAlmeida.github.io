@@ -1,0 +1,26 @@
+body{
+    background-color: tan;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+
+nav{
+    background-color: darkcyan;
+    padding: 10px;
+    position: fixed;
+    width: 100%; 
+}
+nav a{
+     text-decoration: none;
+     padding: 10px 15px;
+     /*
+        padding-top: 10px;
+        padding-bottom:10 px;
+        padding-right: 15px;
+        padding-left: 15px; */
+}
+h2 {
+    background-color: blue
+}
